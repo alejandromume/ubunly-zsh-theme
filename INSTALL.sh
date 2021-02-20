@@ -6,7 +6,7 @@ BOLD_CYAN='\033[1;36m'
 NC='\033[0m' # No Color
 
 printf "${BOLD_CYAN}\n\n[-] ${NC}Installing Theme...\n"
-sudo cp ubuntu.zsh-theme $ZSH_CUSTOM/themes
+sudo cp ubunly.zsh-theme $ZSH_CUSTOM/themes
 
 if [ ! -d "/usr/share/zsh-autosuggestions" ] || [ ! -d "$ZSH_CUSTOM/plugins/zsh-autosuggestions" ]; then
 	git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions --quiet	
