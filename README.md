@@ -16,8 +16,7 @@ The **new Kali Linux** console adapted to Ubuntu!
 2. Execute `INSTALL.sh`
 3. Open your `.zshrc`
 4  Change `ZSH_THEME` to `ubunly`
-
-4.1.  Add to the plugins `zsh-autosuggestions and zsh-syntax-highlighting`
+    4.1.  Add to the plugins `zsh-autosuggestions and zsh-syntax-highlighting`
 
 5. Type `source ~/.zshrc` for reload
 
