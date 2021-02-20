@@ -10,7 +10,7 @@ The **new Kali Linux** console adapted to Ubuntu!
 ## <ins>Install
 #### <ins>Prerequisites
 * `Oh my ZSH` installed
-* `zsh-syntax-highlighting` and `zsh-autosuggestions` plugins [**[How to Install]**](https://github.com/alejandromume/ubuntu-zsh-theme/blob/main/PREREQUISITES.md)
+* `zsh-syntax-highlighting` and `zsh-autosuggestions` plugins [**[How to Install]**](https://github.com/alejandromume/ubunly-zsh-theme/blob/main/PREREQUISITES.md)
 
 #### <ins>Steps
 1. Clone the repository
