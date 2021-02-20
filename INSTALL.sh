@@ -25,7 +25,7 @@ fi
 printf "\n${Green}[✱] ${ORANGE}Ubunly ZSH Theme ${Green}Installed successfully!${NC}\n\n"
 
 printf "╔══════════════════════════════════════════╗ \n"
-printf "║ Set ${ORANGE}ubuntu ${NC}as ZSH_THEME in your .zshrc   ║ \n"
+printf "║ Set ${ORANGE}ubunly ${NC}as ZSH_THEME in your .zshrc   ║ \n"
 printf "╚══════════════════════════════════════════╝ \n\n"
 
 
