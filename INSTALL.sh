@@ -7,7 +7,13 @@ NC='\033[0m' # No Color
 zsh_custom_directory="/home/$USER/.oh-my-zsh/custom"
 
 sudo cp ubunly.zsh-theme $zsh_custom_directory/themes
-printf "${BOLD_CYAN}\n\n[-] ${NC}Installing Theme...\n"
+printf "${BOLD_CYAN}\n\n[-] ${NC}Installing Theme...\n\n"
+
+
+printf "╔══════════════════════════════════════════════════════════════════════════════╗ \n"
+printf "║ Remeber to add ${BOLD_CYAN}zsh-autosuggestions${NC} and ${BOLD_CYAN}zsh-autosuggestions${NC} to your plugins   ║ \n"
+printf "╚══════════════════════════════════════════════════════════════════════════════╝ \n\n"
+
 
 if [ ! -d "/usr/share/zsh-autosuggestions" ] || [ ! -d "$zsh_custom_directory/plugins/zsh-autosuggestions" ]; then
 	git clone https://github.com/zsh-users/zsh-autosuggestions.git $zsh_custom_directory/plugins/zsh-autosuggestions --quiet
