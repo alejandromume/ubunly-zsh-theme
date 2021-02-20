@@ -1,5 +1,5 @@
 # Ubunly ZSH Theme 
-The **new Kali Linux** console adapted to Ubuntu!
+The **new Kali Linux** console adapted to Ubuntu (and maybe any distro)!
 
 ![Resultado de imagen de kali linux zsh](https://www.kali.org/wp-content/uploads/2020/11/kali-2020.4-release-1.png)
 
