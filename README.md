@@ -3,11 +3,11 @@ The **new Kali Linux** console adapted to Ubuntu!
 
 ![Resultado de imagen de kali linux zsh](https://www.kali.org/wp-content/uploads/2020/11/kali-2020.4-release-1.png)
 
-### <ins>Install
-##### <ins>Prerequisites
-* `Oh my ZSH` installed
+## <ins>Install
+#### <ins>Prerequisites
+* `Oh my ZSH` <installed
 
-##### <ins>Steps
+#### <ins>Steps
 1. Clone the repository
 2. Execute `INSTALL.sh`
 3. Open your `.zshrc`
