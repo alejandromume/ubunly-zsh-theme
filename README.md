@@ -14,7 +14,7 @@ The **new Kali Linux** console adapted to Ubuntu!
 
 #### <ins>Steps
 1. Clone the repository
-2. Execute `INSTALL.sh`
+2. Execute `sudo INSTALL.sh`
 3. Open your `.zshrc`
 4.  Change `ZSH_THEME` to `ubuntu`
 5. Type `source ~/.zshrc` for reload
