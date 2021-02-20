@@ -15,7 +15,10 @@ The **new Kali Linux** console adapted to Ubuntu!
 1. Clone the repository
 2. Execute `INSTALL.sh`
 3. Open your `.zshrc`
-  3.1  Change `ZSH_THEME` to `ubunly`
+
+
+
+3.1  Change `ZSH_THEME` to `ubunly`
 
 4.  Add to the plugins `zsh-autosuggestions and zsh-syntax-highlighting`
 5. Type `source ~/.zshrc` for reload
