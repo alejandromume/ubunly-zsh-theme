@@ -9,6 +9,7 @@ The **new Kali Linux** console adapted to Ubuntu (and maybe any distro)!
 
 ## <ins>Install
 #### <ins>Prerequisites
+* A Powerline/Nerd Font
 * The installer will download them automatically
 
 #### <ins>Steps
