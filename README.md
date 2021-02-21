@@ -13,10 +13,11 @@ The **new Kali Linux** console adapted to Ubuntu (and maybe any distro)!
 * The installer will download them automatically
 
 #### <ins>Steps
+
 1. Clone the repository
 2. Execute `INSTALL.sh`
 3. Open your `.zshrc`
-4  Change `ZSH_THEME` to `ubunly`
+4. Change `ZSH_THEME` to `ubunly`
 5. Add to the plugins `zsh-autosuggestions and zsh-syntax-highlighting`
 6. Type `source ~/.zshrc` for reload
 
