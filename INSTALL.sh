@@ -4,9 +4,9 @@ ORANGE='\033[1;33m'
 BOLD_CYAN='\033[1;36m'
 NC='\033[0m' # No Color
 
-zsh_custom_directory="/home/$USER/.oh-my-zsh/custom"
+zsh_custom_directory="$HOME/.oh-my-zsh/custom"
 
-sudo cp ubunly.zsh-theme $zsh_custom_directory/themes
+cp ubunly.zsh-theme $zsh_custom_directory/themes
 printf "${BOLD_CYAN}\n\n[-] ${NC}Installing Theme...\n\n"
 
 
@@ -23,7 +23,7 @@ else
 fi
 
 if [ ! -d "/usr/share/zsh-syntax-highlighting" ] || [ ! -d "$zsh_custom_directory/plugins/zsh-syntax-highlighting" ]; then
-	sudo git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $zsh_custom_directory/plugins/zsh-syntax-highlighting --quiet
+	git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $zsh_custom_directory/plugins/zsh-syntax-highlighting --quiet
 	sudo cp -r $zsh_custom_directory/plugins/zsh-syntax-highlighting /usr/share/
 else	
 	printf "${RED}[-] ${NC}zsh-syntax-highlighting is alredy installed\n"
