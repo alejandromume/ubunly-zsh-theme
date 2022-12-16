@@ -1,11 +1,11 @@
 # Ubunly ZSH Theme 
 The **new Kali Linux** console adapted to Ubuntu (and maybe any distro)!
 
-![Resultado de imagen de kali linux zsh](https://www.kali.org/wp-content/uploads/2020/11/kali-2020.4-release-1.png)
+![image](https://user-images.githubusercontent.com/43515908/208122228-41608f02-2ada-43a5-83cc-2e585082131d.png)
 
 ## <ins>Preview
 
-![](https://cdn.clippy.gg/clippy/7f2e09d2-e280-4440-b4d9-6e4d88701993/c1851f6.gif)
+![WindowsTerminal_c7APNwrBpI](https://user-images.githubusercontent.com/43515908/208122421-291a310b-99f1-4cb7-970d-6d7195bf31e2.png)
 
 ## <ins>Install
 #### <ins>Prerequisites
