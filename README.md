@@ -20,5 +20,5 @@ The **new Kali Linux** console adapted to Ubuntu (and maybe any distro)!
 5. Add to the plugins `zsh-autosuggestions and zsh-syntax-highlighting`
 6. Type `source ~/.zshrc` for reload
 
-![](https://cdn.clippy.gg/clippy/7f2e09d2-e280-4440-b4d9-6e4d88701993/163b668.gif)
+![28Y5wC6NkJ](https://user-images.githubusercontent.com/43515908/208123645-6494780e-3f6d-46cb-b54e-34b88bc2b093.gif)
 
