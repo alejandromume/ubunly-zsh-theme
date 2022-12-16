@@ -11,7 +11,7 @@ printf "${BOLD_CYAN}\n\n[-] ${NC}Installing Theme...\n\n"
 
 
 printf "╔══════════════════════════════════════════════════════════════════════════════╗ \n"
-printf "║ Remeber to add ${BOLD_CYAN}zsh-autosuggestions${NC} and ${BOLD_CYAN}zsh-autosuggestions${NC} to your plugins   ║ \n"
+printf "║ Remeber to add ${BOLD_CYAN}zsh-autosuggestions${NC} and ${BOLD_CYAN}zsh-syntax-highlighting${NC} to your plugins   ║ \n"
 printf "╚══════════════════════════════════════════════════════════════════════════════╝ \n\n"
 
 
